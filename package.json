@@ -1,0 +1,24 @@
+{
+  "name": "pruebaplmbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jusevesi/pruebaPlmBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jusevesi/pruebaPlmBackend/issues"
+  },
+  "homepage": "https://github.com/jusevesi/pruebaPlmBackend#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3"
+  }
+}
