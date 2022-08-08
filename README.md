@@ -1,6 +1,6 @@
-# pruebaPlmBackend
+# userApp
 
-Este repositorio corresponde al backend hecho con node js para el reto de Plm.
+Este repositorio corresponde al backend hecho con node js userApp.
 
 ## Pasos para ejecutar el proyecto
 
